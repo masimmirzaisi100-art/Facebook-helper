@@ -12,6 +12,7 @@ Use at your own risk.
     
 # 1. Clone the Repo
 git clone https://github.com/masimmirzaisi100-art/Facebook-helper.git
+
 cd Facebook-helper
 
 # 2. Install Python (For Termux)
