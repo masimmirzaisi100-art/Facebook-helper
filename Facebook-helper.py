@@ -1,11 +1,3 @@
-#!usr/bin/python
-#Facebook Cracker Version 2 can crack into Facebook Database 100% without Interruption By Facebook Firewall !
-#This program is for educational purposes only.
-#Don't attack people facebook accounts it's illegal ! 
-#If you want to crack into someone's account, you must have the permission of the user. 
-#Hazem is not responsible.
-
-
 import sys
 import random
 import mechanize
@@ -117,5 +109,3 @@ def check():
         print "\n [*] Exiting program ..\n"
         sys.exit(1)
 
-if __name__ == '__main__':
-    check()
